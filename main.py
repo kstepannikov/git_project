@@ -1,3 +1,7 @@
+
+def superfunction():
+    print("Привет Паймон")
+
 def main ():
     print("Первый принт")
     print("Второй принт")
