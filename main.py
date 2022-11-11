@@ -1,6 +1,6 @@
 
 def superfunction():
-    print("Привет Паймон")
+    print("Привет кОЛЛЕДЖ")
 
 def main ():
     print("Первый принт")
